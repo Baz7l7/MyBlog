@@ -1,4 +1,4 @@
-baseURL                = "/"
+baseURL                = "https://spiderdata.blog/"
 locale                 = "zh"
 title                  = "我的博客名"
 # Theme i18n support
